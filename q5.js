@@ -1,4 +1,4 @@
-function mafiaWar(mafias, fights){
+const mafiaWar = (mafias, fights) => {
   /* Your code here */
 }
 
@@ -12,3 +12,5 @@ const mafias = [
 ]
 const fights = [5, 2, 4, 3, 2, 1]
 console.log(mafiaWar(mafias, fights))
+
+module.export = mafiaWar

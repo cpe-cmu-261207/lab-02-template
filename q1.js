@@ -1,4 +1,4 @@
-function arrayStringify(input){
+const arrayStringify = (input) => {
   /* Your code here */
 }
 
@@ -10,3 +10,5 @@ const input3 = []
 console.log(arrayStringify(input1))
 console.log(arrayStringify(input2))
 console.log(arrayStringify(input3))
+
+module.exports = arrayStringify

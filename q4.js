@@ -1,4 +1,4 @@
-function cloneMonster(monster, amount){
+const cloneMonster = (monster, amount) => {
   /* Your code here */
 }
 
@@ -19,3 +19,5 @@ const amount3 = 4
 console.log( cloneMonster(monster1, amount1))
 console.log( cloneMonster(monster2, amount2))
 console.log( cloneMonster(monster3, amount3))
+
+module.export = cloneMonster

@@ -1,4 +1,4 @@
-function allInOrNot(input){
+const allInOrNot = (input) => {
   /* Your code here */
 }
 
@@ -12,3 +12,5 @@ console.log( allInOrNot( input1))
 console.log( allInOrNot( input2))
 console.log( allInOrNot( input3))
 console.log( allInOrNot( input4))
+
+module.exports = allInOrNot

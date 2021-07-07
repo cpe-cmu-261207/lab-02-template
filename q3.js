@@ -1,4 +1,4 @@
-function showIfSumIsEven(input){
+const showIfSumIsEven = (input) => {
   /* Your code here */
 }
 
@@ -12,3 +12,5 @@ console.log(showIfSumIsEven(input1))
 console.log(showIfSumIsEven(input2))
 console.log(showIfSumIsEven(input3))
 console.log(showIfSumIsEven(input4))
+
+module.exports = showIfSumIsEven
