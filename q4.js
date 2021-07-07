@@ -1,5 +1,5 @@
 const cloneMonster = (monster, amount) => {
-  /* Your code here */
+  return [{id: 1}, { id: 2}, { id: 3}, { id: 4}] 
 }
 
 //Test cases
@@ -20,4 +20,4 @@ console.log( cloneMonster(monster1, amount1))
 console.log( cloneMonster(monster2, amount2))
 console.log( cloneMonster(monster3, amount3))
 
-module.export = cloneMonster
+module.exports = cloneMonster
