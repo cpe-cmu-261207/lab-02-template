@@ -2,7 +2,7 @@ function arrayStringify(input){
   /* Your code here */
 }
 
-//Please don't change following lines
+//Test cases
 const input1 = [1, 2, 3]
 const input2 = [10, 9, 8, 7, 6, 5]
 const input3 = []

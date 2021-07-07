@@ -2,7 +2,7 @@ function cloneMonster(monster, amount){
   /* Your code here */
 }
 
-//Please don't change following lines
+//Test cases
 const monster1 = {
   type: 'Zergling', legs: 4, speed: 'very fast'
 }

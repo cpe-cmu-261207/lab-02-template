@@ -2,7 +2,7 @@ function showIfSumIsEven(input){
   /* Your code here */
 }
 
-//Please don't change following lines
+//Test cases
 const input1 = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 const input2 = [[2, 4, 8], [10, 12, 14], [6, -4]]
 const input3 = [[1], [2], [3], [4], [0]]

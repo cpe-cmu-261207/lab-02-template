@@ -2,7 +2,7 @@ function allInOrNot(input){
   /* Your code here */
 }
 
-//Please don't change following lines
+//Test cases
 const input1 = [1, 2, 3]
 const input2 = ["hello", true, 0]
 const input3 = ["Only", "string", "array"]
